@@ -3,7 +3,7 @@
 #include <arpa/inet.h>
 #include <unistd.h>
 
-#define myAddr "10.10.10.10"
+#define myAddr "192.168.116.131"
 #define myPort  1010
 
 int main (int argc, char **argv) {
